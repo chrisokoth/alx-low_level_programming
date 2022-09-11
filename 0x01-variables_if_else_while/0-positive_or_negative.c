@@ -1,9 +1,3 @@
-#include <stdio.h>
-/*
- * * File: 0-positive_or_negative.c
- * Auth: Brennan D Baraban
- */
-
 #include <stdlib.h>
 #include <time.h>
 #include <stdio.h>

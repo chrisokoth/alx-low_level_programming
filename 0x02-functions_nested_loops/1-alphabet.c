@@ -2,7 +2,7 @@
 
 /**
  * main - print_alphabet
- * print_alphabet, in lowwercase, followed by a new line.
+ *print_alphabet
  * Return: 0
  */
 

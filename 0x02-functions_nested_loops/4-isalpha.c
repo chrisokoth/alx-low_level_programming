@@ -9,8 +9,12 @@
  */
 
 int _isalpha(int c)
-
+/**
+ * _isalpha checks for alphebetic character
+ * Return: Always 0
+ */
 {
+	
 
 	if ((c > 'a' && c < 'z') || (c > 'A' && c < 'Z'))
 	{
